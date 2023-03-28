@@ -12,6 +12,8 @@ custom:
 plugins:
   - serverless-iam-roles-per-function
 
+
+
 functions:
   s3FileUploader:
     handler: src/upload.handler
