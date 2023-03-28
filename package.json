@@ -1,0 +1,25 @@
+{
+  "name": "basic-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etizaz98/basic-lambda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etizaz98/basic-lambda/issues"
+  },
+  "homepage": "https://github.com/etizaz98/basic-lambda#readme",
+  "devDependencies": {
+    "serverless-iam-roles-per-function": "^3.2.0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1344.0"
+  }
+}
